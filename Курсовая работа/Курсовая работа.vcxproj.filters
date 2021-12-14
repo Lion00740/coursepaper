@@ -18,7 +18,7 @@
     <ClCompile Include="main.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="PrintMaze.cpp">
+    <ClCompile Include="PrintMazeFiles.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
     <ClCompile Include="InitGrid.cpp">
@@ -27,15 +27,39 @@
     <ClCompile Include="GenerMaze.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="UploadFiles.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintMazeConsole.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PrintMaze.h">
+    <ClInclude Include="PrintMazeFiles.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="InitGrid.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="GenerMaze.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="UploadFiles.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintMazeConsole.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DFS.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
